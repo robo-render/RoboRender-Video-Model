@@ -1,0 +1,15 @@
+# Tested versions (CUDA 12.8, Python 3.10). Newer versions will most likely work.
+torch==2.9.1
+transformers==4.57.6
+safetensors==0.7.0
+einops==0.8.1
+imageio==2.37.2
+imageio-ffmpeg==0.6.0
+pillow==12.1.0
+numpy==2.2.6
+tqdm==4.67.1
+ftfy==6.3.1
+regex==2026.1.15
+sentencepiece==0.2.1
+protobuf==6.33.4
+huggingface_hub==0.36.0

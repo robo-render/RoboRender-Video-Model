@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+models
+ckpt
+data
+outputs
